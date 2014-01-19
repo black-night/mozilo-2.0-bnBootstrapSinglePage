@@ -1,4 +1,4 @@
-mozilo-2.0-bnBootstrapBasic
+mozilo-2.0-bnBootstrapSinglePage 
 ===================
 Layout für moziloCMS 2.0 (https://github.com/mozilo/mozilo2.0)
 Ein einfaches Layout ohne Navigation für eine Einzelseiten Homepage mit einer festen Breite. Das Layout passt sich automatisch an kleinere Displays an.
